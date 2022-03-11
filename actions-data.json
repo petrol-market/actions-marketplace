@@ -1,1 +1,1 @@
-{"lastUpdated":"20220311_1901","actions":[],"organization":"","user":"petrol-market"}
+{"lastUpdated":"20220311_1905","actions":[{"name":"\"Configure AWS Credentials\" Action For GitHub Actions","repo":"configure-aws-credentials","downloadUrl":"https://raw.githubusercontent.com/petrol-market/configure-aws-credentials/master/action.yml","description":"Configure AWS credential and region environment variables for use with the AWS CLI and AWS SDKs"}],"organization":"","user":"petrol-market"}
