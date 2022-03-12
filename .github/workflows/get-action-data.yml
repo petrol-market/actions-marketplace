@@ -20,6 +20,7 @@ jobs:
       with: 
         PAT: ${{ secrets.PAT }}
         user: ${{ github.repository_owner }}
+        organization: ${{ github.repository_owner }}
 
     - shell: bash
       name: Store json file
